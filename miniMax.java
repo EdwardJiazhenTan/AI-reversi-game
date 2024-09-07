@@ -1,10 +1,8 @@
 import java.util.ArrayList;
-import java.util.Arrays;
-
 import static java.lang.Math.max;
 import static java.lang.Math.min;
 
-public class miniMax extends board{
+public class MiniMax extends board{
 
     board board = new board();
     int depth;
