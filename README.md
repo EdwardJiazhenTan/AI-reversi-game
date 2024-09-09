@@ -53,3 +53,7 @@ Reversi, also known as Othello, is a strategy board game played on an 8x8 grid. 
    javac Main.java
    java Main
    ```
+
+Below is an example of how the game looks during gameplay:
+
+![Reversi AI Example](assets/example.png)
